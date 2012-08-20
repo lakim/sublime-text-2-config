@@ -1,0 +1,9 @@
+{
+  "ruby_unit_exec": "ruby -Itest",
+  "ruby_cucumber_exec": "NO_RAILS=1 bundle exec rake cucumber",
+  "ruby_rspec_exec": "rspec",
+
+  "ruby_unit_folder": "test",
+  "ruby_cucumber_folder": "features",
+  "ruby_rspec_folder": "spec"
+}
